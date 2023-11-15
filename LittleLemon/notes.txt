@@ -1,0 +1,4 @@
+superuser: ahmed , pwd: 1234
+other_users:
+username:Doaa password: 538?QP{p
+also other users defined in db
